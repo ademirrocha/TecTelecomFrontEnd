@@ -1,0 +1,709 @@
+/* Johnson Vieira - johnsonvieira.com */
+/* Johnson Vieira - johnsonvieira.com */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+/* Johnson Vieira - johnsonvieira.com */
+/* Johnson Vieira - johnsonvieira.com */
+.p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.h1 {
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+/* Johnson Vieira - johnsonvieira.com */
+.menu {
+  background: #005da8 !important;
+  border-bottom: solid #43a047 4px;
+}
+.menu .bg-light {
+  background: #005da8 !important;
+}
+.menu .navbar {
+  padding: 0 0 1.5rem;
+}
+.menu .navbar-light .navbar-nav .nav-link {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  color: #fff;
+  margin: 30px 0 0;
+  font-size: 19px;
+}
+.menu .navbar-light .navbar-toggler {
+  color: rgba(255, 255, 255, 0.5);
+  border-color: #fff;
+  color: #fff;
+  font-size: 24px;
+  margin: 0px 0 0 10px;
+}
+.menu .botao-entrar {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  text-transform: uppercase;
+  color: #fff;
+  background: #025190;
+  padding: 11px;
+  font-size: 20px;
+  text-align: center;
+}
+.menu .botao-entrar a {
+  color: #fff;
+}
+/* Johnson Vieira - johnsonvieira.com */
+footer {
+  background: #005da8;
+  border-top: solid #43a047 4px;
+  padding: 1.5rem 0 1.5rem;
+}
+footer ul {
+  padding: 0;
+}
+footer ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  color: #fff;
+  list-style: none;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+footer ul li a {
+  color: #fff;
+}
+footer ul li a:hover {
+  color: #fff;
+}
+footer .botao-entrar {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  text-transform: uppercase;
+  color: #fff;
+  background: #025190;
+  padding: 11px;
+  font-size: 20px;
+  text-align: center;
+}
+footer .botao-entrar a {
+  color: #fff;
+}
+footer p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  color: #fff;
+}
+.modal-header h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+}
+.modal-body {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.modal-body a {
+  color: #43a047;
+}
+.modal-footer .btn1 {
+  background-color: #43a047;
+  border-color: #43a047;
+  border-radius: 0;
+}
+.modal-footer .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.modal-footer .btn2 {
+  background-color: #af1e92;
+  border-color: #af1e92;
+  border-radius: 0;
+}
+.modal-footer .btn2 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+/* Johnson Vieira - johnsonvieira.com */
+.lotofacil {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.lotofacil .lotofacil-topo {
+  background: #af1e92;
+  padding: 50px 0 50px 0;
+}
+.lotofacil .lotofacil-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.lotofacil .lotofacil-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.lotofacil .lotofacil-corpo ul {
+  padding: 0;
+}
+.lotofacil .lotofacil-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.lotofacil .lotofacil-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.lotofacil .btn1 {
+  background-color: #af1e92;
+  border-color: #af1e92;
+  border-radius: 0;
+}
+.lotofacil .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+.lotomania {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.lotomania .lotomania-topo {
+  background: #FF8C00;
+  padding: 50px 0 50px 0;
+}
+.lotomania .lotomania-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.lotomania .lotomania-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.lotomania .lotomania-corpo ul {
+  padding: 0;
+}
+.lotomania .lotomania-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.lotomania .lotomania-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.lotomania .btn1 {
+  background-color: #FF8C00;
+  border-color: #FF8C00;
+  border-radius: 0;
+}
+.lotomania .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+
+
+.loteca {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.loteca .loteca-topo {
+  background: #F7FF00;
+  padding: 50px 0 50px 0;
+}
+.loteca .loteca-topo h1 {
+  color: #000;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.loteca .loteca-topo h2 {
+  color: #000;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.loteca .loteca-corpo ul {
+  padding: 0;
+}
+.loteca .loteca-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.loteca .loteca-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+.loteca .btn1 {
+  background-color: #DFFF00;
+  border-color:#FFCB00;
+  border-radius: 0;
+  color: #000;
+}
+.loteca .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+
+.lotogol {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.lotogol .lotogol-topo {
+  background: #00C3FF;
+  padding: 50px 0 50px 0;
+}
+.lotogol .lotogol-topo h1 {
+  color: #000;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.lotogol .lotogol-topo h2 {
+  color: #000;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.lotogol .lotogol-corpo ul {
+  padding: 0;
+}
+.lotogol .lotogol-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.lotogol .lotogol-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+.lotogol .btn1 {
+  background-color: #00C3FF;
+  border-color:#0070FF;
+  border-radius: 0;
+  color: #000;
+}
+.lotogol .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+
+
+
+.timemania {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.timemania .timemania-topo {
+  background: #F7FF00;
+  padding: 50px 0 50px 0;
+}
+.timemania .timemania-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.timemania .timemania-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.timemania .timemania-corpo ul {
+  padding: 0;
+}
+.timemania .timemania-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.timemania .timemania-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.timemania .btn1 {
+  background-color:#FFFB00;
+  border-color:#FFEF00;
+  border-radius: 0;
+}
+.timemania .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+
+
+
+
+.dupla-sena {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.dupla-sena .dupla-sena-topo {
+  background: #BB2A52;
+  padding: 50px 0 50px 0;
+}
+.dupla-sena .dupla-sena-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.dupla-sena .dupla-sena-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.dupla-sena .dupla-sena-corpo ul {
+  padding: 0;
+}
+.dupla-sena .dupla-sena-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.dupla-sena .dupla-sena-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.dupla-sena .btn1 {
+  background-color: #9B0B41;
+  border-color: #86022D;
+  border-radius: 0;
+}
+.dupla-sena .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+.dia-sorte {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.dia-sorte .dia-sorte-topo {
+  background: #FFD700;
+  padding: 50px 0 50px 0;
+}
+.dia-sorte .dia-sorte-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.dia-sorte .dia-sorte-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.dia-sorte .dia-sorte-corpo ul {
+  padding: 0;
+}
+.dia-sorte .dia-sorte-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.dia-sorte .dia-sorte-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.dia-sorte .btn1 {
+  background-color: #FFD700;
+  border-color: #FFD700;
+  border-radius: 0;
+}
+.dia-sorte .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+.megasena {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.megasena .megasena-topo {
+  background: #43a047;
+  padding: 50px 0 50px 0;
+}
+.megasena .megasena-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.megasena .megasena-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.megasena .megasena-corpo ul {
+  padding: 0;
+}
+.megasena .megasena-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.megasena .megasena-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.megasena .btn1 {
+  background-color: #43a047;
+  border-color: #43a047;
+  border-radius: 0;
+}
+.megasena .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.quina {
+  background: #f0f0f0;
+  margin: 0 0 20px 0;
+}
+.quina .quina-topo {
+  background: #005da8;
+  padding: 50px 0 50px 0;
+}
+.quina .quina-topo h1 {
+  color: #fff;
+  text-align: center;
+  font: 700 35px 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin: 0;
+}
+.quina .quina-topo h2 {
+  color: #fff;
+  text-align: center;
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.quina .quina-corpo ul {
+  padding: 0;
+}
+.quina .quina-corpo ul li {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  list-style: none;
+  background: #e9e4e4;
+  margin: 0 0 10px;
+  padding: 10px;
+}
+.quina .quina-corpo ul li:first-child{
+  background: #8FBC8F;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.quina .btn1 {
+  background-color: #005da8;
+  border-color: #005da8;
+  border-radius: 0;
+}
+.quina .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+}
+.quem-somos p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.quem-somos h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.regras p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.regras h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.regras .btn-link {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+  color: #005da8;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.regras .card-body {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.politicas p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.politicas h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.termos p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.termos p b {
+  color: #43a047;
+}
+.termos h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.contato p,
+.contato label {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.contato h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.contato .btn1 {
+  background-color: #005da8;
+  border-color: #005da8;
+  border-radius: 0;
+}
+.contato .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 20px;
+}
+.contas p {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.contas h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.cadastro p,
+.cadastro label {
+  font: 400 16px 'Open Sans', sans-serif;
+  color: #535353;
+}
+.cadastro h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  color: #43a047;
+  text-transform: uppercase;
+}
+.cadastro .btn1 {
+  background-color: #005da8;
+  border-color: #005da8;
+  border-radius: 0;
+}
+.cadastro .btn1 h2 {
+  font: 600 25px 'Open Sans', sans-serif;
+  margin: 0;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 20px;
+}
+/* Johnson Vieira - johnsonvieira.com */
+@media (max-width: 576px) {
+  .menu .navbar-light .navbar-nav .nav-link {
+    margin: 0;
+  }
+}
+@media (max-width: 768px) {
+  .menu .navbar-light .navbar-nav .nav-link {
+    margin: 0;
+  }
+}
