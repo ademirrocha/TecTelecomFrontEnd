@@ -130,6 +130,36 @@ body {
     font-size: 20px;
 }
 
+.rodape{
+    position: absolute;
+    width: 1280px;
+    height: 82px;
+    left: 0px;
+    top: 4032px;
+
+    background: #45475C;
+}
+
+.rodape > p{
+    /* Todos os direitos reservados */
+
+    position: absolute;
+    width: 255.2px;
+    height: 27px;
+    left: 148px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
 
 /*---- response ---- */
 
