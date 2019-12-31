@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap");
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #45475C;
+}
+
+.navbar-light .navbar-toggler {
+    border: none;
+}
+
+.navbar {
+    display: flex;
+}
+
+.bg-light {
+    background-color: #fff !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #45475C;
+}
+
+.a-home {
+    color: #45475C !important;
+}
+
+.nav-contato {
+    color: #fff !important;
+    background: #E24F65;
+    width: 100px;
+    text-align: center;
+}
+
+.empresa {
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-empresa {
+    max-width: 545px;
+    background: #fff;
+    padding: 20px;
+    height: 380px;
+    position: relative;
+    left: 70px;
+}
+
+.info-empresa>h1 {
+    font-size: 36px;
+}
+
+.info-empresa>p {
+    font-size: 18px;
+    width: 500px;
+}
+
+.servicos-sobre {
+    text-align: center;
+}
+
+.sobre-servicos {
+    background: #FBFBFB;
+    margin-top: 70px;
+}
+
+.servicos {
+    padding: 70px 0px 40px 0px;
+}
+
+.servicos h1 {
+    text-align: center;
+}
+
+.servicos p {
+    margin-top: 36px;
+    text-align: center;
+}
+
+.icons-servicos {
+    margin-top: 70px;
+}
+
+.row {
+    margin-top: 120px;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.time-especialistas {
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-time {
+    max-width: 545px;
+    background: #fff;
+    padding: 20px;
+    height: 380px;
+    position: relative;
+    right: 70px;
+}
+
+.info-time>h1 {
+    font-size: 36px;
+}
+
+.info-time>p {
+    font-size: 18px;
+    width: 500px;
+}
+
+.info-time>a {
+    color: #fff;
+    background: #E24F65;
+    width: 100px;
+    text-align: center;
+    padding: 5px 3px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.info-time>a :hover {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+/*---- response ---- */
+
+@media (min-width: 992px) {
+    .navbar-expand-lg {
+        justify-content: space-between !important;
+    }
+}
+
+@media (min-width: 576px) {
+    .col-sm {
+        text-align: center;
+    }
+    .col-sm h5,
+    .col-sm p {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .size-colunm {
+        width: 270px;
+    }
+}
