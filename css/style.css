@@ -130,6 +130,114 @@ body {
     font-size: 20px;
 }
 
+
+.contato {
+    margin-top: 70px;
+    background: #FBFBFB;
+    padding: 50px 0px 50px 0px;
+}
+
+.contato-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contato-duvidas {
+    width: 460px;
+}
+
+.contato-duvidas h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+}
+
+.contato-duvidas p {
+    margin-top: 20px;
+}
+
+.contato-form {
+    width: 400px;
+}
+
+.contato-form p {
+    font-size: 18px;
+    margin: 0px 0px 12px 0px;
+}
+
+.contato-form input[type="email"],
+input[type="text"] {
+    width: 100%;
+    background: #fff;
+    border: none;
+    margin-bottom: 10px;
+    color: #45475C;
+    height: 35px;
+}
+
+.form .mensagem {
+    height: 130px;
+}
+
+.contato-form input[type="submit"] {
+    background: #E24F65;
+    float: right;
+    width: 108px;
+    color: #fff;
+    padding: 5px 3px;
+    border: none;
+}
+
+.endereco {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 18px;
+}
+
+footer {
+    background: #45475C;
+    align-items: center;
+}
+
+.texto-final {
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons-social img {
+    margin-left: 8px;
+}
+
+.texto-final p {
+    margin: 0;
+}
+
+footer {
+    background: #45475C !important;
+    align-items: center;
+    border: none !important;
+    padding: 5px !important;
+}
+
+.texto-final {
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons-social img {
+    margin-left: 8px;
+}
+
+.texto-final p {
+    margin: 0;
+}
+
+
 .rodape{
     position: absolute;
     width: 1280px;
