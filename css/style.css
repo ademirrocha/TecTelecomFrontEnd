@@ -210,10 +210,11 @@ body {
 input[type="text"] {
   width: 100%;
   background: #fff;
-  border: none;
+  border: #45475C solid 0.1px;
   margin-bottom: 10px;
   color: #45475C;
   height: 35px;
+  padding: 8px;
 }
 
 .form .mensagem {
