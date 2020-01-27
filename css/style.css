@@ -124,7 +124,7 @@ body {
 
 .info-time>p {
   font-size: 18px;
-  width: 500px;
+  max-width: 500px;
 }
 
 .info-time>a {
@@ -317,6 +317,10 @@ footer {
   }
   .time-especialistas {
     flex-direction: column-reverse;
+  }
+  .empresa img {
+    margin-left: 0;
+    margin-top: -90px;
   }
 }
 
