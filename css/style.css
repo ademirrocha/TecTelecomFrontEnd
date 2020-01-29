@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap");
 body {
-  font-family: 'Poppins', sans-serif;
-  color: #45475C;
+  font-family: "Poppins", sans-serif;
+  color: #45475c;
 }
 
 .navbar-light .navbar-toggler {
@@ -17,16 +17,16 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #45475C;
+  color: #45475c;
 }
 
 .a-home {
-  color: #45475C !important;
+  color: #45475c !important;
 }
 
 .nav-contato {
   color: #fff !important;
-  background: #E24F65;
+  background: #e24f65;
   width: 100px;
   text-align: center;
 }
@@ -47,6 +47,12 @@ body {
   z-index: 1;
 }
 
+.corecao-widht {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .empresa img {
   margin-left: -150px;
 }
@@ -65,7 +71,7 @@ body {
 
 .sobre-servicos {
   margin-top: 70px;
-  background: #FBFBFB;
+  background: #fbfbfb;
   text-align: center;
 }
 
@@ -115,7 +121,7 @@ body {
   max-width: 545px;
   width: 100%;
   padding: 80px 20px;
-  margin: -100px;
+  margin: -55px;
 }
 
 .info-time>h1 {
@@ -129,7 +135,7 @@ body {
 
 .info-time>a {
   color: #fff;
-  background: #E24F65;
+  background: #e24f65;
   width: 100px;
   text-align: center;
   padding: 5px 3px;
@@ -173,7 +179,7 @@ body {
 
 .contato {
   margin-top: 70px;
-  background: #FBFBFB;
+  background: #fbfbfb;
   padding: 50px 0px;
   width: 100%;
 }
@@ -210,9 +216,9 @@ body {
 input[type="text"] {
   width: 100%;
   background: #fff;
-  border: #45475C solid 0.1px;
+  border: #45475c solid 0.1px;
   margin-bottom: 10px;
-  color: #45475C;
+  color: #45475c;
   height: 35px;
   padding: 8px;
 }
@@ -222,7 +228,7 @@ input[type="text"] {
 }
 
 .contato-form input[type="submit"] {
-  background: #E24F65;
+  background: #e24f65;
   float: right;
   width: 108px;
   color: #fff;
@@ -237,7 +243,7 @@ input[type="text"] {
 }
 
 footer {
-  background: #45475C;
+  background: #45475c;
   align-items: center;
   width: 100%;
 }
@@ -259,7 +265,7 @@ footer {
 }
 
 footer {
-  background: #45475C !important;
+  background: #45475c !important;
   align-items: center;
   border: none !important;
   padding: 5px !important;
@@ -286,7 +292,7 @@ footer {
   height: 82px;
   left: 0px;
   top: 4032px;
-  background: #45475C;
+  background: #45475c;
 }
 
 .rodape>p {
@@ -300,7 +306,7 @@ footer {
   font-size: 18px;
   line-height: 27px;
   /* identical to box height */
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 
@@ -318,9 +324,9 @@ footer {
   .time-especialistas {
     flex-direction: column-reverse;
   }
-  .empresa img {
+  .corecao-widht img {
     margin-left: 0;
-    margin-top: -90px;
+    max-width: 100%;
   }
 }
 
